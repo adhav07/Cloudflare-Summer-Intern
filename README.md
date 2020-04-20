@@ -1,10 +1,10 @@
 # Cloudflare-SummerIntern2020-Systems
 
-preferred to run in an linux environment
+1) Preferred to run in an linux environment
 
-1) Firstly you need to execute the code.  eg. example.c
+2) Firstly you need to execute the code.  eg. example.c
 
-if you want to compile this code, type the following in the command line of linux environment.
+If you want to compile this code, type the below mentioned line in the command prompt of linux environment.
 
 gcc example.c -o out
 
@@ -15,7 +15,7 @@ if it throws error, then you have not installed gcc on your system.Follow the st
 sudo apt update
 sudo apt install build-essential.
 
-2)After the compilation process, you will be having a file named out in your folder where you have the example.c file
+3)After the compilation process, you will be having a file named out in your folder where you have the example.c file
 
 Now, Our code takes 3 arguments.
 
