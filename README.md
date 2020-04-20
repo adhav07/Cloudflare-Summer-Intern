@@ -1,8 +1,8 @@
 # Cloudflare-SummerIntern2020-Systems
 
-## 1) Preferred to run in an linux environment
+### 1) Preferred to run in an linux environment
 
-## 2) Firstly you need to execute the code.  eg. example.c
+### 2) Firstly you need to execute the code.  follow the steps below.
 
 If you want to compile this code, type the below mentioned line in the command prompt of linux environment.
 
