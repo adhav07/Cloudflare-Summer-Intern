@@ -6,7 +6,7 @@
 
 If you want to compile this code, type the below mentioned line in the command prompt of linux environment.
 
-gcc example.c -o out
+`gcc example.c -o out`
 
 In the above mentioned step gcc is the compiler used for compiling c code in linux environment.
 
