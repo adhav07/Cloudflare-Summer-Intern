@@ -13,6 +13,7 @@ In the above mentioned step gcc is the compiler used for compiling c code in lin
 if it throws error, then you have not installed gcc on your system.Follow the steps below to install gcc compiler.
 
 `sudo apt update`
+
 `sudo apt install build-essential`
 
 ### 3)After the compilation process, you will be having a file named out in your folder where you have the example.c file
